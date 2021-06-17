@@ -1,6 +1,6 @@
 marks = [12, 34, 23, 4, 3]
 # list
-grade = {"A": 40, "B": 53, "c": 32}
+grade = {"A": 40, "B": 53, "c": 32} #dictionary
 print(grade.keys())  #show just keys
 print(grade.values())  #show just values
 averg = sum(grade.values()) / len(grade)
